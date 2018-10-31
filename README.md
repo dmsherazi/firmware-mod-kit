@@ -16,4 +16,4 @@ Do NOT use this kit if you are not prepared to have your router bricked!
 
 EULA: By downloading or using this kit, you agree to accept liability for consequences of use or misuse of the Firmware Mod Kit. These include the bricking of your device. The authors of this kit have duly warned you. This kit is only for embedded systems software engineers.
 
-Please see the Wiki Documentation here: https://code.google.com/p/firmware-mod-kit/wiki/Documentation?tm=6 
+Please see the Wiki Documentation here: https://github.com/rampageX/firmware-mod-kit/wiki
